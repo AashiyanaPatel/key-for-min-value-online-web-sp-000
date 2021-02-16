@@ -18,7 +18,9 @@ def key_for_min_value(name_hash)
       end
     end
   current_key_assoc_w_min_val 
-end 	enddef key_for_min_value(name_hash)
+end 	
+
+def key_for_min_value(name_hash)
 
   current_minimum_val = nil 
   current_key_assoc_w_min_val = nil 
